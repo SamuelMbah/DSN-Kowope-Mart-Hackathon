@@ -1,4 +1,4 @@
-# DSN-Kowope-Mart-Hackathon
+# Kowope-Mart-Hackathon
 Data Science Nigeria AI Bootcamp Qualification Hackathon. The 2020 edition.
 
 My Repo Solution to the Bootcamp Competition
